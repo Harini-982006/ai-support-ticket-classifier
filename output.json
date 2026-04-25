@@ -1,0 +1,31 @@
+============================================================
+  CLASSIFICATION RESULTS
+  Mode: Fallback (keyword-based)
+============================================================
+[
+  {
+    "message": "My payment got deducted but service is not activated",
+    "category": "Billing",
+    "priority": "High"
+  },
+  {
+    "message": "App crashes every time I login",
+    "category": "Technical Issue",
+    "priority": "High"
+  },
+  {
+    "message": "How to change my email address?",
+    "category": "Account",
+    "priority": "Medium"
+  },
+  {
+    "message": "I want to know your business hours",
+    "category": "General Inquiry",
+    "priority": "Low"
+  },
+  {
+    "message": "I am unable to reset my password and I'm locked out of my account",
+    "category": "Account",
+    "priority": "High"
+  }
+]
